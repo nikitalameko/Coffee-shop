@@ -1,2 +1,2 @@
 # Coffee-shop
-Simple layout
+https://nikitalameko.github.io/Coffee-shop/
